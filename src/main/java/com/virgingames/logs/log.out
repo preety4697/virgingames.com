@@ -1,0 +1,6 @@
+2024-01-28 01:01:112 INFO  HomePage :21 - verifying Homepage Url
+2024-01-28 01:01:347 INFO  HomePage :29 - Clicking on accept cookies button : [[ChromeDriver: chrome on windows (fa5d37e0510f8f02a9eb220bfa56fd29)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-01-28 01:01:652 INFO  OnlineSlotPage :16 - Getting Online Slots text : [[ChromeDriver: chrome on windows (fa5d37e0510f8f02a9eb220bfa56fd29)] -> xpath: //h2[1]]
+2024-01-28 01:01:95 INFO  HomePage :21 - verifying Homepage Url
+2024-01-28 01:01:355 INFO  HomePage :29 - Clicking on accept cookies button : [[ChromeDriver: chrome on windows (0abe4c6915b06abf44799689790cabb7)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-01-28 01:01:422 INFO  OnlineSlotPage :16 - Getting Online Slots text : [[ChromeDriver: chrome on windows (0abe4c6915b06abf44799689790cabb7)] -> xpath: //h2[1]]
